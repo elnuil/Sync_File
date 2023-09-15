@@ -1,4 +1,4 @@
-I encountered a technical challenge during a hiring process, and I used external resources to help me arrive at a solution. Here's how I approached the problem:
+I encountered a technical challenge, and I used external resources to help me arrive at a solution. Here's how I approached the problem:
 
 I started checking for similar problems on the internet.
 I found a couple of helpful code snippets and tried to modify it.
