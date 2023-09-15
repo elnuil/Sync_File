@@ -9,4 +9,4 @@ Original Source: (https://python.plainenglish.io/the-offline-syncing-files-with-
 
 I restructured the code to make it more organized and easier to read. I replaced the file copying method with  using the 'shutil' library to ensure file metadata is preserved during copying. The code runs in an infinite loop with a 1 hour interval for periodic synchronization and logs messages with timestamps for tracking. 
 
-Please note that this solution was developed as part of a hiring process, and I am sharing it here for transparency and to showcase my problem-solving skills.
+Please note that this solution was developed as part of a process, and I am sharing it here for transparency and to showcase my problem-solving skills.
